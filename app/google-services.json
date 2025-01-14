@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "520464406734",
+    "project_id": "featherquest-e242a",
+    "storage_bucket": "featherquest-e242a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520464406734:android:49facc74960d602bf1d89f",
+        "android_client_info": {
+          "package_name": "com.example.featherquest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEcht6PYvWK1jxOsMSztfLr4yjGLMtbb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
